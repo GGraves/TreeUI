@@ -6,7 +6,7 @@
         $( ".title").click( function()
         {
             $( this).siblings().slideToggle( "slow");
-            $( this).parent().siblings().slideToggle( "slow");
+            $( this).parent(".branch").siblings().slideToggle( "slow");
             if( !$( this).parent().parent().is( ".tree"))
             {
                 $( this).parent().parent().siblings().slideToggle( "slow");
