@@ -1,0 +1,21 @@
+{
+  "name": "TreeUI",
+  "version": "0.0.0",
+  "homepage": "www.treeui.com",
+  "authors": [
+    "GGraves <Gavin@JGG.email>"
+  ],
+  "description": "jQuery plugin for implementing a FLAT UI with drill down functionality.",
+  "main": "./jquery.treeui.js",
+  "keywords": [
+    "jQuery"
+  ],
+  "license": "GPL v2",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
